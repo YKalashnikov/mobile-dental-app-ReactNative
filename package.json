@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "expo": "^35.0.0",
+    "expo": "^56.0.9",
     "expo-constants": "^7.0.1",
     "native-base": "^2.13.8",
     "react": "16.8.3",
@@ -25,7 +25,7 @@
     "styled-components": "^4.4.0"
   },
   "devDependencies": {
-    "babel-preset-expo": "^7.0.0"
+    "babel-preset-expo": "^56.0.14"
   },
   "private": true
 }
